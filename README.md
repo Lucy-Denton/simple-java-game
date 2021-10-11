@@ -1,6 +1,6 @@
 # simple-java-game
 
-One of the coursework projects I submitted during my studies. It showcases my software development ability at the time, which had progressed from complete beginner a few months prior. Both the project and my ability are still major works in progress!
+One of the coursework projects I submitted during my studies. It showcases my software development ability at the time, which had progressed from complete beginner just a few months prior. Both the project and my ability are still major works in progress!
 
 To initialise the game, run the file SkyWarsGUI.java in the src/cwSkyWars folder. The game rules will be displayed as below.
 
