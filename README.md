@@ -4,9 +4,9 @@ One of the coursework projects I submitted during my studies. It showcases my so
 
 To initialise the game, run the file SkyWarsGUI.java in the src/cwSkyWars folder. The game rules will be displayed as below.
 
-<img width="437" alt="simple-java-game1" src="https://user-images.githubusercontent.com/74419106/136768604-e0193943-11df-4f82-b905-5779b3b6e7f6.png">
+<img width="440" alt="simple-java-game1" src="https://user-images.githubusercontent.com/74419106/136781642-33d68df5-e472-4812-8ab9-121f52feba27.png">
 
-After starting the game and the Master Ship ("MS") has moved, the grid will display the location of the Master Ship as well as the number of Enemy Ships on each square.
+After starting the game and the Master Ship (MS) has moved, the grid will display the location of the Master Ship as well as the number of Enemy Ships on each square.
 
 <img width="440" alt="simple-java-game3" src="https://user-images.githubusercontent.com/74419106/136769023-5738df62-c05c-4da1-b4a6-64e191965707.png">
 
