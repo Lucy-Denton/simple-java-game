@@ -16,6 +16,6 @@ When a new Enemy Ship is created, the user is asked to name it. The user can typ
 
 <img width="440" alt="simple-java-game2" src="https://user-images.githubusercontent.com/74419106/136769379-27f11556-5455-4c25-be82-f5e53ab178ae.png">
 
-The "Mode" and "Save" buttons are yet to be programmed, and more importantly, the master ship is yet to be able to destroy enemy ships. Nonetheless, the user can continue to move the master ship, watch as it moves closer and further away from enemy ships, until the game eventually ends when the master ship is destroyed.
+The "Mode" and "Save" buttons are yet to be programmed, and more importantly, the master ship is yet to be able to destroy enemy ships. Nonetheless, the user can continue to move the master ship, watch as it moves closer and further away from enemy ships, until the game eventually ends when the master ship is destroyed by moving on to a square with at least two enemy ships.
 
 The game logic is in the Game.java file and the computations to generate the random movement of all the ships are in the MoveButton.java file.
