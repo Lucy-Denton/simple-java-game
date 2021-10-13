@@ -1,6 +1,6 @@
 # simple-java-game
 
-A simple Java computer game with nested loop grid structure for the game sureface (the sky/space) and controlled random movement of spaceships, built while learning to programme as a complete beginner. Both the project and my coding ability are still major works in progress!
+A simple Java computer game with nested loop grid structure for the game surface (the sky/space) and controlled random movement of spaceships, built while learning to programme as a complete beginner. Both the project and my coding ability are still major works in progress!
 
 To initialise the game, run the file SkyWarsGUI.java in the src/cwSkyWars folder. The game rules will be displayed as below.
 
